@@ -1,0 +1,5 @@
+package com.aaroo.file.service;
+
+public interface FileUploadService {
+
+}

@@ -1,0 +1,7 @@
+package com.aaroo.file.util;
+
+public class FileConstant {
+
+	public static String fileLocationPath = "/SpringFileUploadUtility/src/main/resources/files";
+
+}

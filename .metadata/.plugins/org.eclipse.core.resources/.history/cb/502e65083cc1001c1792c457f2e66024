@@ -1,0 +1,11 @@
+package com.aaroo.mail.service;
+
+import javax.mail.MessagingException;
+
+import org.springframework.web.multipart.MultipartFile;
+
+public interface MailSenderService {
+
+	Object sendMailWithAttachment(String toEmail, String body, String subject, MultipartFile attachment) throws MessagingException;
+
+}

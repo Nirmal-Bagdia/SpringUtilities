@@ -1,0 +1,23 @@
+package com.aaroo.file.model;
+
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+
+@Entity
+public class FileDetail {
+
+	@Id
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
+	private Long fileId;
+
+	private String fileType;
+
+	private String fileName;
+
+	private String filePath;
+
+	private String fileSize;
+
+}

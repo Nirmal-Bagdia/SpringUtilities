@@ -1,0 +1,8 @@
+package com.aaroo.file.util;
+
+public class ResponseConstant {
+
+	public static final Object SUCCESS_CODE = 200;
+	public static final Object SUCCESS = "File successfully uploaded";
+
+}

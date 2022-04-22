@@ -1,0 +1,5 @@
+package com.aaroo.file.repository;
+
+public interface FileUploadRepository {
+
+}

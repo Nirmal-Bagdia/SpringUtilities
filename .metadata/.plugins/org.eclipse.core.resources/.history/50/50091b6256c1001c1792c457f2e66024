@@ -1,0 +1,18 @@
+package com.aaroo.file.model;
+
+import javax.persistence.Entity;
+
+@Entity
+public class FileDetail {
+
+	private Long fileId;
+
+	private String fileType;
+
+	private String fileName;
+
+	private String filePath;
+
+	private String fileLength;
+
+}

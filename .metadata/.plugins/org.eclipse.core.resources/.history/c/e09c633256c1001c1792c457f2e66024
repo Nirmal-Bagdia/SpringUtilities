@@ -1,0 +1,5 @@
+package com.aaroo.file.model;
+
+public class FileDetail {
+
+}

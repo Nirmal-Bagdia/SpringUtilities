@@ -1,0 +1,9 @@
+
+TestOne
+
+Application ID	NSCLT43
+Registration Amount	₹ 1500
+
+Application ID	NSCHT8
+Registration Amount	₹ 10000
+User The Following passwrod for Login while status tracking note this password NSCHT8@123

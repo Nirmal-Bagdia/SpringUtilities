@@ -1,0 +1,5 @@
+package com.aaroo.file.util;
+
+public class ResponseConstant {
+
+}
